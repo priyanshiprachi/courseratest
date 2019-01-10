@@ -1,0 +1,69 @@
+body {  
+background-color:#fffccc;  
+margin: 0px auto;  
+  
+}  
+.calbody{  
+ background: #ccb3ff;  
+ border: 1px solid #e6ccff;  
+ padding: 10px;  
+ margin-left: 450px;
+ min-width: 25.0em;  
+ max-width: 27.4em;  
+   
+}  
+h1{  
+ text-align: center;  
+ font-size: 40px;  
+ color: #003652;  
+   
+}  
+  
+#input{  
+ text-align: right;  
+ width: 23em;  
+ height: 30px;  
+ font-size: 18px;  
+ border: 1px solid #fff; 
+   
+}  
+  
+#answer{  
+ color: grey;  
+ text-align: right;  
+ width: 27.6em;  
+ height: 15px;  
+ font-size: 15px;  
+ border: 1px solid #fff;   
+ 
+}
+
+#clr{
+ background-color: #ebebe0;  
+ width: 137px;  
+ height: 50px;  
+ font-size: 20px;  
+ border: 1px solid #4d0000;  
+ 
+}
+
+#clr:hover{  
+  background-color: #509CA9;   
+    
+ }  
+  
+  
+button{  
+ background-color: #ebebe0;  
+ width: 80px;  
+ height: 50px;  
+ font-size: 20px;  
+ border: 1px solid #4d0000;  
+   
+  
+}  
+  
+button:hover{  
+  background-color: #509CA9;   
+    
+ }  
